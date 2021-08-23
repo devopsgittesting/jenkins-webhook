@@ -1,6 +1,6 @@
 #!/bin/bash
 echo `date`
-mem_threshold='15'
+mem_threshold='10'
 mem_usage () {
 
  #MB units
